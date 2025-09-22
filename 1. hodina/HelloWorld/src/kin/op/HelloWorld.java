@@ -46,6 +46,8 @@ public class HelloWorld {
        area = sideA * sideB;
        
         System.out.println("The area is " + area + " big");
+        
+        System.out.println("GITHUB TEST!");
        
     }
     
