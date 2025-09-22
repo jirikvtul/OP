@@ -48,6 +48,7 @@ public class HelloWorld {
         System.out.println("The area is " + area + " big");
         
         System.out.println("GITHUB TEST!");
+        System.out.println("GITHUB TEST! 2");
        
     }
     
